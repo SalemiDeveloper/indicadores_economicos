@@ -1,0 +1,8 @@
+{
+  "data_inicial": "2026-09-01",
+  "data_final": "2026-10-19",
+  "selic_inicial": 14.0,
+  "selic_final": 13.75,
+  "variacao_pontos_percentuais": -0.25,
+  "quantidade_observacoes": 49
+}
